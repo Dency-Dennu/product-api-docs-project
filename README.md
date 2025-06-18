@@ -108,3 +108,23 @@ MIT
 
 ![API Diagram](./diagram.png)
 
+## 📘 Project Summary
+
+This project is a complete API documentation portfolio sample for a fictional Product API. It includes:
+
+- ✅ A working Express.js-based mock API (`index.js`)
+- ✅ Interactive API documentation using Swagger UI (`/api-docs`)
+- ✅ YAML-based OpenAPI spec (`swagger.yaml`)
+- ✅ Hosted Swagger UI via GitHub Pages
+- ✅ API published on SwaggerHub
+- ✅ Architecture diagram using Mermaid.js and PNG
+- ✅ Additional documentation files:
+  - `README.md`
+  - `developer-guide.md`
+  - `archi-diagram.md`
+
+### 🔗 Hosted Links
+
+- Swagger UI (GitHub Pages): [View Documentation](https://dency-dennu.github.io/product-api-docs-project)
+- SwaggerHub: [View API Spec](https://app.swaggerhub.com/apis/Dency-Dennu/product-api/1.0.0)
+- GitHub Repo: [product-api-docs-project](https://github.com/Dency-Dennu/product-api-docs-project)
