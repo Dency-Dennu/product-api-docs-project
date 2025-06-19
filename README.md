@@ -106,7 +106,8 @@ MIT
 
 ## 🗺️ API Architecture Diagram
 
-![API Diagram](\C:\Users\acer\Downloads\diagram.png)
+![API Diagram](./diagram.png) ✅
+
 
 ## 📘 Project Summary
 
